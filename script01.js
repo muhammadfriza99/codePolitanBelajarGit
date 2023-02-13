@@ -1,1 +1,1 @@
-console.log('Friza ganteng');
+console.log('Friza ganteng sekali');
