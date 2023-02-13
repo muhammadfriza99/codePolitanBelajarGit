@@ -9,4 +9,4 @@ console.log('Vegy Destianty');
 let add = (a,b) => a+b;
 console.log(add(9,0));
 let minus = (a,b) => a-b;
-console.log(add(9,9));
+console.log(minus(9,9));
